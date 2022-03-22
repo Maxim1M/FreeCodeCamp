@@ -9,3 +9,8 @@ var b;
 b = a;
 
 var a = 9;
+
+var myFirstName = "Maxim";
+var myLastName = "Mikhaylov";
+
+
