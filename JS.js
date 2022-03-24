@@ -95,4 +95,4 @@ a *= 5;
 b *= b;
 c *= 10; */
 
-
+const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
