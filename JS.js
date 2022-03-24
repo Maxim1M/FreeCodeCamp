@@ -46,7 +46,7 @@ const sum = 10 + 10;
 
 const difference = 45 - 33;
 
-const product = 8 * 10;
+//const product = 8 * 10;
 
 const quotient = 66 / 33;
 
@@ -61,3 +61,5 @@ myVar--;
 const ourDecimal = 5.7;
 const myDecimal = 5.7;
 // Only change code below this line
+
+const product = 2.0 * 2.5;
