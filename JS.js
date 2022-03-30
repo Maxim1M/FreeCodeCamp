@@ -147,3 +147,16 @@ const lastLetterOfLastName = lastName[lastName.length - 1]; // Change this line
 
 // Only change code below this line
 const secondToLastLetterOfLastName = lastName[lastName.length- 2]; // Change this line
+
+// Only change code below this line
+const myArray = ["number", 1];
+
+const myNoun = "dog";
+const myAdjective = "big";
+const myVerb = "ran";
+const myAdverb = "quickly";
+
+// Only change code below this line
+var wordBlanks = "My "+ myAdjective +" and dumb " + myNoun +" has "+ myVerb +" very "+ myAdverb +" into the street. ";; // Change this line
+// Only change code above this line
+
