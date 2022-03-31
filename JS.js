@@ -160,3 +160,4 @@ const myAdverb = "quickly";
 var wordBlanks = "My "+ myAdjective +" and dumb " + myNoun +" has "+ myVerb +" very "+ myAdverb +" into the street. ";; // Change this line
 // Only change code above this line
 
+const myArray = [["Bulls",23],["White Sox",45]];
