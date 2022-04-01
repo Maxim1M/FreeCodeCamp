@@ -161,3 +161,7 @@ var wordBlanks = "My "+ myAdjective +" and dumb " + myNoun +" has "+ myVerb +" v
 // Only change code above this line
 
 const myArray = [["Bulls",23],["White Sox",45]];
+
+const myArray = [50, 60, 70];
+myArray[0]; 
+const myData = myArray[0];
