@@ -171,12 +171,12 @@ const myData = myArray[0];
 myArray[0] = 45;
 // Only change code below this line
 
-const myArray = [
+//const myArray = [
   [1, 2, 3],
   [4, 5, 6],
   [7, 8, 9],
   [[10, 11, 12], 13, 14],
-];
+//];
 //const myData = myArray[2][1];
 
 // Setup
@@ -186,8 +186,13 @@ myArray.push(["dog", 3]);
 
 // Setup
 //const myArray = [["John", 23], ["cat", 2]];
-const removedFromMyArray = myArray.pop();
+//const removedFromMyArray = myArray.pop();
 console.log(removedFromMyArray);
 console.log(myArray);
+// Only change code below this line
+
+// Setup
+const myArray = [["John", 23], ["dog", 3]];
+const removedFromMyArray = myArray.shift();
 // Only change code below this line
 
