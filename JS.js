@@ -203,3 +203,8 @@ myArray.unshift(["Paul", 35]);
 // Only change code below this line
 
 const myList = [["dog", 1], ["cat", 2], ["word", 3], ["door", 4], ["beat", 5]];
+
+function reusableFunction() {
+  console.log("Hi World");
+}
+reusableFunction();
