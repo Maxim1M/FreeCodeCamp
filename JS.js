@@ -208,3 +208,10 @@ function reusableFunction() {
   console.log("Hi World");
 }
 reusableFunction();
+
+function functionWithArgs(){
+  console.log(1+2);
+  console.log(7+9);
+}
+functionWithArgs(1,2);
+functionWithArgs(7,9);
