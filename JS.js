@@ -215,3 +215,32 @@ function functionWithArgs(a, b) {
 
 functionWithArgs(1,2);
 functionWithArgs(7,9);
+
+
+function minusSeven(num) {
+
+  return num - 7;
+  
+  }
+  
+  // Only change code below this line
+  
+  function timesFive(number) {
+  
+  return number * 5;
+  
+  }
+  
+  var ans = timesFive(5);
+  
+  ans = timesFive(2);
+  
+  ans = timesFive(0);
+  
+  console.log(timesFive(5));
+  
+  console.log(timesFive(2));
+  
+  console.log(timesFive(0));
+  
+  console.log(minusSeven(10));
