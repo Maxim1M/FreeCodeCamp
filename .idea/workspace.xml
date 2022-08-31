@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e08f1cc8-8a0e-484f-ac7c-a9e65f2c2a98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/FreeCodeCamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e08f1cc8-8a0e-484f-ac7c-a9e65f2c2a98" name="Changes" comment="Global Scope and Functions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JS.js" beforeDir="false" afterPath="$PROJECT_DIR$/JS.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +58,23 @@
       <workItem from="1661852320394" duration="884000" />
       <workItem from="1661966554910" duration="110000" />
       <workItem from="1661966670210" duration="48000" />
-      <workItem from="1661968233094" duration="12000" />
+      <workItem from="1661968233094" duration="1156000" />
     </task>
+    <task id="LOCAL-00001" summary="Global Scope and Functions">
+      <created>1661968525740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661968525740</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Global Scope and Functions">
+      <created>1661968556989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661968556989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Global Scope and Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Global Scope and Functions" />
   </component>
 </project>
